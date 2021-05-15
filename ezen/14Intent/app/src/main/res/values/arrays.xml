@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="items">
+        <item>다이얼러 표시</item>
+        <item>문자발송</item>
+        <item>이메일 보내기</item>
+        <item>웹 페이지 표시</item>
+        <item>구글검색</item>
+        <item>특정 App 설치 페이지 보기</item>
+        <item>동영상 재생</item>
+        <item>MP3 재생</item>
+        <item>시스템 환경 설정 페이지 보기</item>
+        <item>GPS설정 화면 보기</item>
+        <item>WIFI 설정화면 보기</item>
+        <item>현재 App 정보 보기</item>
+    </string-array>
+
+</resources>
