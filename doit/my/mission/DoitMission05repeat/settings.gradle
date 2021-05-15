@@ -1,0 +1,2 @@
+rootProject.name = "DoitMission05repeat"
+include ':app'
